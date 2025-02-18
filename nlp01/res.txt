@@ -1,0 +1,19 @@
+Ramesh
+Phone: 1234567891
+
+Objective:
+Highly skilled Software Engineer with 5+ years of experience in web development and software design.
+Proficient in Python, Java, and JavaScript. Looking for opportunities to work on challenging projects.
+
+Work Experience:
+Software Engineer | XYZ Technologies | June 2020 - Present
+- Developed web applications using Python and JavaScript.
+- Worked closely with the design team to create user-friendly interfaces.
+
+Education:
+Bachelor of technolgy in Computer Science | ABC University | 2016 - 2020
+
+Skills:
+- Programming Languages: Python, Java, JavaScript
+- Frameworks: Django, Flask, React
+- Tools: Git, Docker, Jenkins
